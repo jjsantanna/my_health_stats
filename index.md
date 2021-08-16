@@ -21,3 +21,9 @@ You can downoad the raw data [here!](https://github.com/jjsantanna/my_health_sta
 
 ## Long Runs - HR
 ![HR boxplot](/assets/hr_boxplot.png)
+
+## Food Intake Race Day
+- You can downoad the expected intake table [here!](https://github.com/jjsantanna/my_health_stats/blob/master/data/race_food_intake.xlsx?raw=true)
+
+## The parcour
+![Parcour](/assets/csm_BM-19_Strecke-Laeufer_210x297mm-4_dac672c5da.jpg)
