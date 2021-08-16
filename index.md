@@ -22,6 +22,13 @@ You can downoad the raw data [here!](https://github.com/jjsantanna/my_health_sta
 ## Long Runs - HR
 ![HR boxplot](/assets/hr_boxplot.png)
 
+**Remember:**
+- Z1: [95, 114[ (50-60%)
+- Z2: [114, 133[ (60-70%)
+- Z3: [133, 152[ (70-80%)
+- Z4: [152, 171[ (80-90%)
+- Z5: [171, 190[ (90-100%)
+
 ## Food Intake Race Day
 - You can downoad the expected intake table [here!](https://github.com/jjsantanna/my_health_stats/blob/master/data/race_food_intake.xlsx?raw=true)
 
